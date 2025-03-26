@@ -37,6 +37,6 @@ Build Tool: Maven/Gradle
 
 Access the Application
 
-Instructor Login: http://localhost:8080/instructor
+Instructor Login: http://localhost:8080/
 
-Student Login: http://localhost:8080/student
+Student Login: http://localhost:8080/
